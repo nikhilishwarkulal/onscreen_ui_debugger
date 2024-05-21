@@ -1,7 +1,7 @@
 name: onscreen_ui_debugger
 description: "Onscreen UI Debugger"
 version: 0.0.1
-homepage:
+homepage: https://github.com/nikhilishwarkulal/onscreen_ui_debugger.git
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
